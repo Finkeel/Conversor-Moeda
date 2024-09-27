@@ -60,4 +60,7 @@ O **Currency Converter** é uma aplicação de console em Java que permite ao us
 
 ### 2. Uso da Aplicação
 
-https://github.com/user-attachments/assets/134dd662-ae50-4a2e-930e-2eda31f57fb0
+
+https://github.com/user-attachments/assets/9c9b8e9c-185b-44b1-87ef-c7038ee06654
+
+
